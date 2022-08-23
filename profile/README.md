@@ -1,6 +1,6 @@
 # xeokit SDK
 
-Graphics SDK for Borwser-based BIM and AEC Visualization
+Graphics SDK for Browser-based BIM and AEC Visualization
 
 * [xeokit.io](https://xeokit.io)
 * [xeolabs.com](https://xeolabs.com)
